@@ -1,0 +1,1 @@
+Ruby console app that I created on my 4th day of every using Ruby. This app gives the user a list of bands to create a concert with. User chooses which band will play and in what order. After all choices are made user can display what the order will be for said concert.
